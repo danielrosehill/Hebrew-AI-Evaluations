@@ -32,6 +32,7 @@ plain and pointed runs isolate its **nikud inference**: the vowels it infers fro
 *2026-11-18 · 10 models, 17 runs, 340 clips · listening notes in progress*
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126)
+[![Leaderboard](https://img.shields.io/badge/Hugging_Face-Leaderboard-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/Hebrew-TTS-Leaderboard)
 [![Listen](https://img.shields.io/badge/Hugging_Face-Listening_Space-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/spaces/Hebrish/Hebrew-TTS-Bakeoff-1126)
 [![Eval set](https://img.shields.io/badge/Hugging_Face-Eval_Set-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/datasets/Hebrish/Hebrew-TTS-Eval-Set)
 [![Clips](https://img.shields.io/badge/Hugging_Face-Clips-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/datasets/Hebrish/Hebrew-TTS-Bakeoff-1126)
